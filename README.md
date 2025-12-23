@@ -31,7 +31,6 @@ Instead of mutating the task list directly, the project uses array methods like 
 > Synchronization Between State and View
 Every change in the application—adding, completing, or deleting a task—is immediately reflected in both the stored data and the UI. This consistent synchronization prevents mismatches between what the user sees and what the application remembers. Understanding this relationship is fundamental to building reliable front-end applications.
 
-More to come!!
-Adapt it for a portfolio README
+Not done yet!
 
-Just tell me 👍
+
